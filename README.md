@@ -21,5 +21,5 @@ File input and output operations is something that will be transferable to futur
 
 •	How did you make this program maintainable, readable, and adaptable?
 
-For maintainability something I try to work on is separation of concerns when creating code. Spitting up different tasks into distinct sections, such as the file reading, temperature conversion, and file writing, makes the code easier to locate and modify specific functionalities without affection others. Finally, as for readability I added descriptive comments throughout the program 
+For maintainability something I try to work on is separation of concerns when creating code. Splitting up different tasks into distinct sections, such as the file reading, temperature conversion, and file writing, makes the code easier to locate and modify specific functionalities without affection others. Finally, as for readability I added descriptive comments throughout the program 
 
