@@ -1,3 +1,15 @@
+•	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+I Interpret user needs by understanding their specific requirements and translating them into actionable tasks. User stories facilitate this process by breaking down user needs into manageable chunks, maintaining focus on the user's perspective, and prioritizing features accordingly. Through the use of user stories, I can closely collaborate with stakeholders, ensuring alignment with user expectations while also delivering a positive user experience.
+
+•	How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+I prioritize understanding the projects’ requirements and breaking tasks into more manageable steps. After learning agile processes, I aim to incorporate processes such as Scrum in order to help with organizing tasks through Sprint Planning, unsure regular communication, gathering feedback, and reflecting. By using Agile methodologies, I will add to collaboration among team members, adapt more effectively to changing project requirements, and ultimately deliver higher quality solutions.
+
+•	What does it mean to be a good team member in software development?
+
+Being a good team member in software development means effectively communicating, collaborating, and problem-solving with peers. This also includes having adaptability to changing circumstances, and a commitment to continuous learning in order to stay updated on new technologies. Most importantly, good team members respect their colleagues, create a supportive environment, and contribute positively to the team's success by sharing knowledge and expertise.
+
 •	Summarize the project and what problem it was solving.
 
 This project involved creating a program that reads the temperature data from the given Fahrenheit folder, which then converts those temperatures to Celsius while writing the converted temperatures to the output file.
