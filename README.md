@@ -1,3 +1,28 @@
+CS-230:
+•	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
+The Gaming Room client wanted a versatile web-based software solution for their game "Draw It or Lose It." The software needed to operate across web, mobile, and console platforms, featuring a responsive user interface, client-server communication, and secure user authentication and authorization. The client emphasized platform independence and scalability to ensure a seamless and optimized gaming experience across different devices and platforms, all while maintaining the engaging and competitive core features of the original game and expanding its accessibility.
+
+•	What did you do particularly well in developing this documentation?
+In developing this documentation, I believe I did particularly well in fixating on the most important aspects of the project, such as the software requirements. My ability to clearly outline the client's requirements and translate them into actionable design constraints was a key strength. By emphasizing the importance of user experience, I ensured that the documentation focused on creating a user-friendly, intuitive interface that adapts to different devices and other aspects like screen sizes.
+
+•	What about the process of working through a design document did you find helpful when developing the code?
+Working through the design document was immensely helpful in providing a structured approach to the software development process. It clearly outlined the project requirements, ensuring a comprehensive understanding of what needed to be accomplished. This structured plan facilitated better organization and time management, allowing for a systematic breakdown of tasks. By providing a clear roadmap, it minimized confusion and ensured all team members were aligned, ultimately leading to a more efficient and effective development process.
+
+•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I were to revise one part of my work, it would be adding more detail to the Application Development Process. Specifically, I would enhance the section by including comprehensive insights into each phase, such as requirements gathering, design and development. This approach better aims to ensure mutual understanding and alignment between all sides, fostering a shared perspective on progression and goals.
+
+•	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+Interpreting user needs was pivotal in shaping the software design. By thoroughly understanding and prioritizing these needs, the I could ensure that the final product would be user-friendly and meet the intended purpose effectively. Considering the user's needs is crucial in designing software because it directly impacts user satisfaction and adoption rates. A final design that aligns with user expectations leads to a more intuitive and enjoyable experience, ultimately contributing to the software's success and longevity.
+
+•	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+My approach to designing software involved understanding the client's requirements, using iterative design techniques, and focusing on a user-centered design. I ensured alignment with the client's vision through detailed discussions and requirement gathering. Iterative design allowed me to refine the application based on feedback and testing. I prioritized creating an intuitive, user-friendly interface adaptable to various devices and screen sizes. In the future, I plan to enhance my skills by exploring advanced user research methods, adopting Agile methodologies, utilizing new design tools and technologies, focusing on cross-platform compatibility, and deepening my understanding of security and data protection. This will improve my ability to design high-quality software that meets client requirements and provides exceptional user experiences.
+
+
+
+
+
+
+
 •	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 I Interpret user needs by understanding their specific requirements and translating them into actionable tasks. User stories facilitate this process by breaking down user needs into manageable chunks, maintaining focus on the user's perspective, and prioritizing features accordingly. Through the use of user stories, I can closely collaborate with stakeholders, ensuring alignment with user expectations while also delivering a positive user experience.
