@@ -16,6 +16,7 @@ Interpreting user needs was pivotal in shaping the software design. By thoroughl
 
 •	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 My approach to designing software involved understanding the client's requirements, using iterative design techniques, and focusing on a user-centered design. I ensured alignment with the client's vision through detailed discussions and requirement gathering. Iterative design allowed me to refine the application based on feedback and testing. I prioritized creating an intuitive, user-friendly interface adaptable to various devices and screen sizes. In the future, I plan to enhance my skills by exploring advanced user research methods, adopting Agile methodologies, utilizing new design tools and technologies, focusing on cross-platform compatibility, and deepening my understanding of security and data protection. This will improve my ability to design high-quality software that meets client requirements and provides exceptional user experiences.
+[CS 230 Project Software Design Final version 3.docx](https://github.com/user-attachments/files/16042718/CS.230.Project.Software.Design.Final.version.3.docx)
 
 
 
