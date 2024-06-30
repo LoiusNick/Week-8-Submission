@@ -1,4 +1,4 @@
-CS-230:
+CS-230:[CS 230 Project Software Design Final version 3.docx](https://github.com/user-attachments/files/16042718/CS.230.Project.Software.Design.Final.version.3.docx)
 •	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
 The Gaming Room client wanted a versatile web-based software solution for their game "Draw It or Lose It." The software needed to operate across web, mobile, and console platforms, featuring a responsive user interface, client-server communication, and secure user authentication and authorization. The client emphasized platform independence and scalability to ensure a seamless and optimized gaming experience across different devices and platforms, all while maintaining the engaging and competitive core features of the original game and expanding its accessibility.
 
