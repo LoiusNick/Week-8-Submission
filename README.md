@@ -1,3 +1,21 @@
+CS-300: Entry: Reflecting on my course work 
+
+What was the problem you were solving in the projects for this course?
+In this course, I worked on designing and implementing a course advising system that efficiently stores and retrieves course information. The main challenge was selecting the right data structures to manage a list of courses, ensuring that they could be accessed, sorted, and searched efficiently. In Project One, I analyzed different data structures—vector, hash table, and binary search tree to determine their efficiency. After that, I implemented a functional program that reads course data from a file, stores it in a data structure, and allows users to search for courses or view them in alphanumeric order.
+
+How did you approach the problem? Consider why data structures are important to understand.
+I started by analyzing the different data structures available and considering their advantages and trade-offs. Since performance and ease was a top priority, I compared runtime complexity (Big O notation) for operations like insertion, searching, and sorting. Understanding data structures is important because the way data is organized affects the speed and efficiency of a program. For instance, using a hash table allowed for quick lookups, while a sorted map ensured the course list remained ordered without extra sorting steps. Choosing the right data structure helped balance speed, efficiency, and readability in my implementation.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+One of the biggest challenges I faced was ensuring that the course data was loaded correctly from the CSV file and formatted properly for display. At first, I encountered issues with reading the file, handling prerequisites, and maintaining case-insensitive searches. To overcome this, I added debugging statements to track file loading, validated inputs to handle errors, and used string manipulation functions to standardize user input. I also sought feedback and adjusted my approach based on best coding practices, which helped refine my program.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+This project reinforced the importance of planning before coding. By first analyzing data structures and writing pseudocode, I was able to create a structured solution rather than coding blindly. It also showed me how real-world applications rely on efficient data handling, and how choosing the wrong approach can impact performance. I also gained a better understanding of how to break down a problem, test solutions, and refine my code through iteration.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+Throughout this course, I focused on writing clean, well-documented, and modular code. I used consistent naming conventions, added easy to read comments, and followed industry best practices for handling user input and errors. These habits not only made my code easier to debug but also ensured that it could be easily understood and modified in the future if I needed to do so. I also learned the importance of flexibility by structuring my code thoughtfully, making it easier to adapt and expand as new features or requirements arise.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CS-255: Entry: Reflecting on the DriverPass Project
 
 Project Summary
