@@ -1,3 +1,16 @@
+CS-320: Entry: Portfolio project reflection
+
+How can I ensure that my code, program, or software is functional and secure?
+To make sure my code works correctly, I use unit testing to check for both valid and invalid inputs. Writing JUnit tests helped me find mistakes early and verify that the logic followed the requirements. I also learned to include checks for edge cases, like null values and data format issues. While this course did not focus heavily on security, I now understand that validating input and preventing unexpected behavior are important first steps toward writing secure code.
+
+How do I interpret user needs and incorporate them into a program?
+In this course, the requirements were clearly defined by the customer. I learned how to turn those requirements into logic by writing validation rules and service methods that match what the user expects. For example, if a user needs a phone number to be exactly 10 digits, I had to write both the code and the tests to enforce that. This helped me think more about how users interact with software behind the scenes.
+
+How do I approach designing software?
+My design approach starts with breaking the problem into small parts. I start with the object class (like Contact or Appointment), define what it needs, and then build services around it. From there, I think about how to test each part separately before putting everything together. This step-by-step approach made the projects easier to manage and helped me build a stronger understanding of how different parts of the program connect.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CS-300: Entry: Reflecting on my course work 
 
 What was the problem you were solving in the projects for this course?
@@ -15,7 +28,8 @@ This project reinforced the importance of planning before coding. By first analy
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 Throughout this course, I focused on writing clean, well-documented, and modular code. I used consistent naming conventions, added easy to read comments, and followed industry best practices for handling user input and errors. These habits not only made my code easier to debug but also ensured that it could be easily understood and modified in the future if I needed to do so. I also learned the importance of flexibility by structuring my code thoughtfully, making it easier to adapt and expand as new features or requirements arise.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CS-255: Entry: Reflecting on the DriverPass Project
 
 Project Summary
